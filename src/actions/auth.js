@@ -1,3 +1,3 @@
 import {createActions} from 'redux-actions';
 
-export const {authorize} = createActions('AUTHORIZE');
+export const {authorize, logout} = createActions('AUTHORIZE', 'LOGOUT');
