@@ -177,3 +177,5 @@ if (isFetching) {
 ```
 
 </details>
+
+[Вторая часть дз](https://github.com/dex157/s2-git/tree/part-2#home-project-facegit-23)
